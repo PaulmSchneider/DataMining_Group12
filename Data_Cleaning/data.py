@@ -15,4 +15,6 @@ rows, columns = dask_df.shape
 rows_computed = rows.compute()
 print(f"Number of rows: {rows_computed}, Number of columns: {columns}")
 
-print(dask_df.head(10)) 
+print(dask_df.head(10))
+
+dropped_df = dask_df.drop(['Civil_Twilight'], axis = 1)
