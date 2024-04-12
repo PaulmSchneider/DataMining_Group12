@@ -4,7 +4,7 @@ import pandas as pd
 
 def mask_data(): 
     pd_df = pd.read_csv('Cleaned_New_Dataset.csv')
-    new_df = pd_df.drop(['ID', 'Start_Lat', 'Start_Lng', 'Weather_Timestamp', 'Weather_Condition', 'Wind_Direction', 'Start_Time'], axis='columns')
+    new_df = pd_df.drop(['ID', 'Severity', 'Distance(mi)', 'Start_Lat', 'Start_Lng', 'Weather_Timestamp', 'Weather_Condition', 'Wind_Direction', 'Start_Time'], axis='columns')
 
 
     #https://www.rmets.org/metmatters/beaufort-wind-scale
