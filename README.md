@@ -1,6 +1,6 @@
 # DataMining_Group12
 
-**Amazon US Customer Reviews Dataset** 
+**U.S Car Accident Data** 
 
 ***Group Members*** 
 
@@ -9,6 +9,9 @@
 - Matt Scott (masc6977@colorado.edu)
 - Daniel Simonson (dasi2816@colorado.edu)
 
-
-
+**Description:**
+**Summary of Questions:**
+**Application of Knowledge:**
+**Link to Video:**
+**Link to Final Paper:**
 https://www.kaggle.com/datasets/cynthiarempel/amazon-us-customer-reviews-dataset?select=amazon_reviews_multilingual_US_v1_00.tsv
