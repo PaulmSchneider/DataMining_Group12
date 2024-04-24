@@ -15,9 +15,18 @@ We intend to explore and answer questions about how weather, time of day, precip
 
 **Summary of Questions:**
 
-What driving conditions are the most hazerdous?
-How has traffic accident volume changed with time?
-What locations have the most traffic accidents?
+*What driving conditions are the most hazerdous?*
+
+High wind speed and poor visibility held the highest probability of a minor accident.
+
+With the addition of several other conditions such as time of day being Night or freezing temperature the Bayesian Classification predicts car accidents under these conditions will most likely be severe. Indeed, this confirms our hypothesis that weather conditions and nighttime driving have a positive correlation with an increase in the severity of accidents. Drawing inferences from these results, we can conclude that because most accidents are not weather-related, a majority are not as severe. 
+
+*How has traffic accident volume changed with time?*
+
+
+
+*What locations have the most traffic accidents?*
+
 
 **Application of Knowledge:**
 
