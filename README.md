@@ -10,8 +10,13 @@
 - Daniel Simonson (dasi2816@colorado.edu)
 
 **Description:**
+
 **Summary of Questions:**
+
 **Application of Knowledge:**
+
 **Link to Video:**
+
 **Link to Final Paper:**
+
 https://www.kaggle.com/datasets/cynthiarempel/amazon-us-customer-reviews-dataset?select=amazon_reviews_multilingual_US_v1_00.tsv
