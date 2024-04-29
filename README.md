@@ -24,9 +24,6 @@ With the addition of several other conditions such as time of day being Night or
 *How has traffic accident volume changed with time?*
 It is evident through our Time Series analysis of Accidents over years and accidents by hour, that more cars on the road often leads to more accidents. During the start of quarantine during 2020, there was a massive drop in accidents. This was likely due to the lack of cars on the road. It is also evident through our hourly accident count that accidents appear to occur significantly more between 6 am to 6 pm which is typically considered standard work hours. Traffic accidents peak between 7 - 9 am and 4 - 6 pm or "rush hour". In our weekend vs weekday chart, there are significantly fewer accidents during weekends likely due to fewer commuters. We see a spike on weekend accidents in the early afternoon which may be due to weekend sleeping habits.
 
-Year over year, day of the week
-Covid, Seasonality changes (drops in the winter, more holidays/foul weather), Time of day and day of the week (weekends saw a significant decrease in traffic) (
-
 
 *What locations have the most traffic accidents?*
 
