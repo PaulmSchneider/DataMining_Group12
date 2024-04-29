@@ -44,4 +44,4 @@ This knowledge could be useful in determining what conditions are more dangerous
 
 **Link to Final Paper:**
 
-https://www.kaggle.com/datasets/cynthiarempel/amazon-us-customer-reviews-dataset?select=amazon_reviews_multilingual_US_v1_00.tsv
+https://docs.google.com/document/d/1_MKeKH0nkphJwDxW7UWe9XCSmOK3zIq0pEYP5WrJlYk/edit?usp=sharing
