@@ -24,6 +24,7 @@ With the addition of several other conditions such as time of day being Night or
 *How has traffic accident volume changed with time?*
 
 Year over year, day of the week
+Covid, Seasonality changes (drops in the winter, more holidays/foul weather), Time of day and day of the week (weekends saw a significant decrease in traffic) (
 
 
 *What locations have the most traffic accidents?*
