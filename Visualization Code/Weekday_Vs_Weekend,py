@@ -104,9 +104,9 @@ we_hour_counts = we_df['Hour'].value_counts().sort_index()
 
 plt.figure(figsize=(10, 6))
 
-plt.bar(wd_hour_counts.index - 0.2, wd_hour_counts.values, width=0.4, label='Weekdays')
+plt.bar(wd_hour_counts.index - 0.2, wd_hour_counts.values/5, width=0.4, label='Weekdays')
 
-plt.bar(we_hour_counts.index + 0.2, we_hour_counts.values, width=0.4, label='Weekends')
+plt.bar(we_hour_counts.index + 0.2, we_hour_counts.values/2, width=0.4, label='Weekends')
 
 plt.title('Hourly Accident Count (Weekdays vs. Weekends)')
 
