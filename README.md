@@ -15,7 +15,7 @@ We intend to explore and answer questions about how weather, time of day, precip
 
 **Summary of Questions:**
 
-*What driving conditions are the most hazerdous?*
+*What driving conditions are the most hazardous?*
 
 High wind speed and poor visibility held the highest probability of a minor accident.
 
@@ -23,9 +23,14 @@ With the addition of several other conditions such as time of day being Night or
 
 *How has traffic accident volume changed with time?*
 
+Year over year, day of the week
 
 
 *What locations have the most traffic accidents?*
+
+City centers, highways, and interstates have the most accidents. Large population centers with sprawled amenities and a need to travel by car had a significant portion as well.
+
+Using a Heat Map we were able to see the geographic frequency of accidents in the United States and adjust our map to counties and cities with the highest frequency of accidents. For example, Los Angeles County, CA was high on the list; most of the accidents occured on the highways and interstate so much so that you can clearly identify the roads on a map. With the knowledge gained from utilizing the heat map, location data can be gained and utilized by local and state governments to create informed initiatives that can reduce traffic and reallocate resources to enhance road safety and mitigate accident risks in known problematic areas.
 
 
 **Application of Knowledge:**
