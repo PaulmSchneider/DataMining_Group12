@@ -1,0 +1,31 @@
+import pandas as pd
+
+
+
+
+df = pd.read_csv('US_Accidents_March23.csv')
+
+
+
+
+df['Hour'] = df['Start_Time'].str.slice(11, 13)
+
+df['Year'] = df['Start_Time'].str.slice(0, 4)
+
+df['Month'] = df['Start_Time'].str.slice(5, 7)
+
+df['Day'] = df['Start_Time'].str.slice(8, 10)  
+
+
+
+
+
+
+new_df = df[['Hour', 'Year', 'Month', 'Day']]
+
+
+
+
+
+
+new_df.to_csv('new_dataframe.csv', index=False)
