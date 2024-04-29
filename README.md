@@ -22,7 +22,7 @@ High wind speed and poor visibility held the highest probability of a minor acci
 With the addition of several other conditions such as time of day being Night or freezing temperature the Bayesian Classification predicts car accidents under these conditions will most likely be severe. Indeed, this confirms our hypothesis that weather conditions and nighttime driving have a positive correlation with an increase in the severity of accidents. Drawing inferences from these results, we can conclude that because most accidents are not weather-related, a majority are not as severe. 
 
 *How has traffic accident volume changed with time?*
-
+It is evident through our Time Series analysis of Accidents over years and accidents by hour, that more cars on the road often leads to more accidents. During the start of quarantine during 2020, there was a massive drop in accidents. This was likely due to the lack of cars on the road. It is also evident through our hourly accident count that accidents appear to occur significantly more
 Year over year, day of the week
 Covid, Seasonality changes (drops in the winter, more holidays/foul weather), Time of day and day of the week (weekends saw a significant decrease in traffic) (
 
