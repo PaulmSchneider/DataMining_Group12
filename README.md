@@ -44,4 +44,4 @@ https://drive.google.com/file/d/1zqHUpUkqkLa4HMBNBnnUv0ClHKZxFNNw/view?usp=drive
 
 **Link to Final Paper:**
 
-https://docs.google.com/document/d/1_MKeKH0nkphJwDxW7UWe9XCSmOK3zIq0pEYP5WrJlYk/edit?usp=sharing
+https://github.com/PaulmSchneider/DataMining_Group12/blob/main/12_AnalysisOfUSAccidents_Part4.pdf
